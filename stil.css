@@ -1,0 +1,18 @@
+#albe{
+    color: white;
+}
+.pagination{
+    position: absolute;
+                bottom: 0px;
+    right: 50%;
+}
+body{
+    font-size: 30px;
+}
+#adaugare{
+    height: 0px;
+    width: 0px;
+}
+#numar{
+    text-align: center;
+}
